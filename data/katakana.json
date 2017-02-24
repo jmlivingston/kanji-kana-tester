@@ -1,0 +1,289 @@
+[
+    {
+        "id": 9001,
+        "name": "ア",
+        "english": "a",
+        "checked": false,
+        "order": 1
+    },
+    {
+        "id": 9002,
+        "name": "イ",
+        "english": "i",
+        "checked": false,
+        "order": 2
+    },
+    {
+        "id": 9003,
+        "name": "ウ",
+        "english": "u",
+        "checked": false,
+        "order": 3
+    },
+    {
+        "id": 9004,
+        "name": "エ",
+        "english": "e",
+        "checked": false,
+        "order": 4
+    },
+    {
+        "id": 9005,
+        "name": "オ",
+        "english": "o",
+        "checked": false,
+        "order": 5
+    },
+    {
+        "id": 9006,
+        "name": "カ",
+        "english": "ka",
+        "checked": false,
+        "order": 6
+    },
+    {
+        "id": 9007,
+        "name": "キ",
+        "english": "ki",
+        "checked": false,
+        "order": 7
+    },
+    {
+        "id": 9008,
+        "name": "ク",
+        "english": "ku",
+        "checked": false,
+        "order": 8
+    },
+    {
+        "id": 9009,
+        "name": "ケ",
+        "english": "ke",
+        "checked": false,
+        "order": 9
+    },
+    {
+        "id": 9010,
+        "name": "コ",
+        "english": "ko",
+        "checked": false,
+        "order": 10
+    },
+    {
+        "id": 9011,
+        "name": "サ",
+        "english": "sa",
+        "checked": false,
+        "order": 11
+    },
+    {
+        "id": 9012,
+        "name": "シ",
+        "english": "shi",
+        "checked": false,
+        "order": 12
+    },
+    {
+        "id": 9013,
+        "name": "ス",
+        "english": "su",
+        "checked": false,
+        "order": 13
+    },
+    {
+        "id": 9014,
+        "name": "セ",
+        "english": "se",
+        "checked": false,
+        "order": 14
+    },
+    {
+        "id": 9015,
+        "name": "ソ",
+        "english": "so",
+        "checked": false,
+        "order": 15
+    },
+    {
+        "id": 9016,
+        "name": "タ",
+        "english": "ta",
+        "checked": false,
+        "order": 16
+    },
+    {
+        "id": 9017,
+        "name": "チ",
+        "english": "chi",
+        "checked": false,
+        "order": 17
+    },
+    {
+        "id": 9018,
+        "name": "ツ",
+        "english": "tsu",
+        "checked": false,
+        "order": 18
+    },
+    {
+        "id": 9019,
+        "name": "テ",
+        "english": "te",
+        "checked": false,
+        "order": 19
+    },
+    {
+        "id": 9020,
+        "name": "ト",
+        "english": "to",
+        "checked": false,
+        "order": 20
+    },
+    {
+        "id": 9021,
+        "name": "ナ",
+        "english": "na",
+        "checked": false,
+        "order": 21
+    },
+    {
+        "id": 9022,
+        "name": "ニ",
+        "english": "ni",
+        "checked": false,
+        "order": 22
+    },
+    {
+        "id": 9023,
+        "name": "ヌ",
+        "english": "nu",
+        "checked": false,
+        "order": 23
+    },
+    {
+        "id": 9024,
+        "name": "ネ",
+        "english": "ne",
+        "checked": false,
+        "order": 24
+    },
+    {
+        "id": 9025,
+        "name": "ノ",
+        "english": "no",
+        "checked": false,
+        "order": 25
+    },
+    {
+        "id": 9026,
+        "name": "ハ",
+        "english": "ha",
+        "checked": false,
+        "order": 26
+    },
+    {
+        "id": 9027,
+        "name": "ヒ",
+        "english": "hi",
+        "checked": false,
+        "order": 27
+    },
+    {
+        "id": 9028,
+        "name": "フ",
+        "english": "fu",
+        "checked": false,
+        "order": 28
+    },
+    {
+        "id": 9029,
+        "name": "ヘ",
+        "english": "he",
+        "checked": false,
+        "order": 29
+    },
+    {
+        "id": 9030,
+        "name": "ホ",
+        "english": "ho",
+        "checked": false,
+        "order": 30
+    },
+    {
+        "id": 9031,
+        "name": "ヤ",
+        "english": "ya",
+        "checked": false,
+        "order": 31
+    },
+    {
+        "id": 9032,
+        "name": "ユ",
+        "english": "yu",
+        "checked": false,
+        "order": 32
+    },
+    {
+        "id": 9033,
+        "name": "ヨ",
+        "english": "yo",
+        "checked": false,
+        "order": 33
+    },
+    {
+        "id": 9034,
+        "name": "ラ",
+        "english": "ra",
+        "checked": false,
+        "order": 34
+    },
+    {
+        "id": 9035,
+        "name": "リ",
+        "english": "ri",
+        "checked": false,
+        "order": 35
+    },
+    {
+        "id": 9036,
+        "name": "ル",
+        "english": "ru",
+        "checked": false,
+        "order": 36
+    },
+    {
+        "id": 9037,
+        "name": "レ",
+        "english": "re",
+        "checked": false,
+        "order": 37
+    },
+    {
+        "id": 9038,
+        "name": "ロ",
+        "english": "ro",
+        "checked": false,
+        "order": 38
+    },
+    {
+        "id": 9039,
+        "name": "ワ",
+        "english": "wa",
+        "checked": false,
+        "order": 39
+    },
+    {
+        "id": 9040,
+        "name": "オ",
+        "english": "o",
+        "checked": false,
+        "order": 40
+    },
+    {
+        "id": 9041,
+        "name": "ン",
+        "english": "n",
+        "checked": false,
+        "order": 41
+    }
+]
